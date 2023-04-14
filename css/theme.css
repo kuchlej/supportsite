@@ -6,16 +6,22 @@ body {
     background-blend-mode:color-burn;
 
 }
+a {
+    color:#aaddff;
+    
+
+}
 .logo{
     display:block;
     margin-left: auto;
     margin-right: auto;
 }
 .rclogo{
-    display:flex;
-    align-items:center;
-    width:125px;
-
+    display:block;
+    width:175px;
+    margin-left: auto;
+    margin-right: auto;
+ 
 }
 .outer{
     height:100%;
