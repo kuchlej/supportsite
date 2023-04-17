@@ -7,14 +7,23 @@ body {
 
 }
 a {
-    color:#aaddff;
-    
-
+    color:#77aaee;
 }
+
+a:hover{
+    color:navy;
+}
+
+button:hover{
+    background-color:navy;
+    border-color:navy;
+}
+
 .logo{
     display:block;
     margin-left: auto;
     margin-right: auto;
+    
 }
 .rclogo{
     display:block;
@@ -23,6 +32,18 @@ a {
     margin-right: auto;
  
 }
+.rcbutton{
+    background-color:#77aaee;
+    border-radius:5px;
+    border-color:#77aaee;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+
+
+
 .outer{
     height:100%;
 }
