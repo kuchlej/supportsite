@@ -7,16 +7,19 @@ body {
 
 }
 a {
-    color:#77aaee;
+    color:white;
+    background-color: #77aaee;
 }
 
 a:hover{
-    color:navy;
+    color: navy;
+    
 }
 
 button:hover{
     background-color:navy;
     border-color:navy;
+    
 }
 
 .logo{
