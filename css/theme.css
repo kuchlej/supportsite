@@ -8,18 +8,18 @@ body {
 }
 a {
     color:white;
-    /*background-color: #3E7BE3;*/
-    background-color: #002F44;
+    background-color: #0000a7;
+    
 }
 
 a:hover{
-    background-color:navy;
+    background-color:#000058;
     
 }
 
 button:hover{
-    background-color:navy;
-    border-color:navy;
+    background-color:#000058;
+    border-color:#000058;
     
 }
 
@@ -37,9 +37,9 @@ button:hover{
  
 }
 .rcbutton{
-    background-color:#002F44;
+    background-color:#0000a7;
     border-radius:5px;
-    border-color:#002F44;
+    border-color:#0000a7;
     display:block;
     margin-left:auto;
     margin-right:auto;
