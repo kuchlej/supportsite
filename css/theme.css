@@ -1,3 +1,11 @@
+/* Color list - in hex - corporate = where we get redirected from fullerinfotech.com
+#E04E3B - The red used on corporate
+#FFCC00 - The Dull yellow on corporate
+#001B28 - The dark color of the Navigation bar on corporate
+#0F3042 - Text Color with white background on corporate
+#F4F8FA - Offwhite of the topic bubbles on corporate
+*/
+
 body {
     background-size:cover;
     background-repeat:no-repeat;
@@ -37,12 +45,13 @@ button:hover{
  
 }
 .rcbutton{
-    background-color:#000058;
-    border-radius:5px;
-    border-color:#000058;
+    background-color:#E04E3B;
+    border-radius: 30px;
+    border:0;
     display:block;
     margin-left:auto;
     margin-right:auto;
+    width: 275px;
     
 }
 
